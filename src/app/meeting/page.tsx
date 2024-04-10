@@ -97,7 +97,7 @@ export default function Home() {
 */
 
 
-//"use clinet";
+"use clinet";
 //import { useSearchParams } from "next/navigation";
 
 //import React from "react";
