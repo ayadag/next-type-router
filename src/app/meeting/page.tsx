@@ -1,4 +1,4 @@
-"use clinet";
+"use client";
 import React, { useEffect, useCallback, useContext } from "react";
 //import { useHistory } from "react-router-dom";
 //import { MeetContext } from "../context/MeetContext";
